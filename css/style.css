@@ -13,7 +13,7 @@
       font-size: 200%;
       background-color: LightCoral;
       font-family: courier;
-      border: 2px dotted darkblue;
+      border: 3px dotted darkblue;
       text-transform: uppercase;
       letter-spacing: 5px;
       transition: rotate(-30)deg;
