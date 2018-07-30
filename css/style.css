@@ -9,3 +9,12 @@
       color: blue
     }
 
+    .anExampleClass {
+      font-size: 300%;
+      background-color: lightgreen;
+      font-family: courier;
+      border: 1px dotted red;
+      text-transform: uppercase;
+      letter-spacing: 5px;
+      transition: rotate(-30)deg;
+    }
